@@ -11,7 +11,7 @@ title                    : "Paris (Chuyuan) Wang / Human-centered Data Science S
 title_separator          : "-"
 name                     : &name "Paris (Chuyuan) Wang"
 description              : &description "personal description"
-url                      : https://pariscwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/pariscwang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pariscwang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
