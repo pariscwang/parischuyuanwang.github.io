@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Current Master of Information candidate at University of Toronto studying Human-centered Data Science. 2020 NYU graduate with a B.A. in Mathematics and Economics and a minor in Business Studies.
+Master of Information candidate at University of Toronto studying Human-centered Data Science. 2020 NYU graduate with a B.A. in Mathematics and Economics and a minor in Business Studies.
 
 A data-driven approach to story-telling
 ======
