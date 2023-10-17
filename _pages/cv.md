@@ -26,6 +26,6 @@ Work experience
   
 For more information
 ======
-* Please see: Linkedin
+www.linkedin.com/in/paris-wang 
 
 
