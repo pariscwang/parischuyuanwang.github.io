@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-* Oct 2023 - Present: Business Development and Data Analyst
+* 2023 - Present: Business Development and Data Analyst
   * University of Toronto, Faculty of Information
   * Toronto, Ontario, Canada
 
-* Dec 2020 – Aug 2021: User Success Specialist
+* 2020 – 2021: User Success Specialist
   * ChinesePod
   * New York, NY, United States
   
