@@ -8,13 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Master of Information candidate at University of Toronto studying Human-centered Data Science. 2020 NYU graduate with a B.A. in Mathematics and Economics and a minor in Business Studies.
+Master of Information candidate at University of Toronto studying Human-centered Data Science. 2020 NYU graduate with B.A. in Mathematics and Economics and minor in Business Studies.
 
-A data-driven approach to problem-solving
-======
+Passionate about data-driven decision-making with special interests in machine learning & deep learning, statistical modelling, and visualization.
 
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. 
-
+Experienced in business analysis, process improvement, and cross-functional collaboration.
