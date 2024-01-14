@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paris (Chuyuan) Wang / Human-centered Data Science Student"
+title                    : "Paris (Chuyuan) Wang"
 title_separator          : "-"
 name                     : &name "Paris (Chuyuan) Wang"
 description              : &description "personal description"
@@ -85,10 +85,7 @@ author:
   bio              : "Data Analyst & Master of Information student at the University of Toronto"
   location         : "Toronto, Ontario, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : paris.wang@mail.utoronto.ca
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +93,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
+  github           : "pariscwang"
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"http://www.linkedin.com/in/paris-wang"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
