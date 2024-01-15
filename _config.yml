@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Paris Wang"
   avatar           : "profile.png"
-  bio              : "Data Analyst & Master of Information student at the University of Toronto"
+  bio              : #"Data Analyst & Master of Information student at the University of Toronto"
   location         : "Toronto, Ontario, Canada"
   employer         :
   email            : paris.wang@mail.utoronto.ca
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pariscwang"
+  github           : "https://github.com/pariscwang"
   keybase          :
   instagram        :
   lastfm           :
